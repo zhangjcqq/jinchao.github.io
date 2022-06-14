@@ -1,4 +1,13 @@
-## 基于算法模型的音乐创作
+# AI音乐创作
+
+### demo1：流行钢琴曲纯音乐（Pop-piano）生成模型
+### demo2：史诗级音乐（Epic music）生成模型
+### demo3：根据用户哼唱，进行乐曲续写
+### 发行级别的单曲1：《2022微信公开课pro主题曲-入微》
+[Link](url)
+
+
+
 
 You can use the [editor on GitHub](https://github.com/zhangjcqq/jinchao.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
