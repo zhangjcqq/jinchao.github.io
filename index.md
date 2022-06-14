@@ -6,5 +6,5 @@
 ### 单曲MV：《2022微信公开课pro主题曲-入微》
 ### 单曲MV：《2022腾讯志愿者之歌》
 
-<audio src="{{site.url}}/resource/audio/lovely_ages.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio>
+<audio src="https://github.com/zhangjcqq/music/blob/gh-pages/resource/audio/lovely_ages.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio>
 
