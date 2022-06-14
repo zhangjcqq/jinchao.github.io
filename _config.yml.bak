@@ -18,6 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 theme: jekyll-theme-cayman
+title: AI音乐创作
+description: >- # this means to ignore newlines until "baseurl:"
+  作品demo和技术能力
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+show_downloads: false
+github:
+  code_url: xx
+  data_url: xx
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
