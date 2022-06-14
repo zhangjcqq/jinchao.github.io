@@ -28,8 +28,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 show_downloads: false
 github:
-  code_url: ""
-  data_url: ""
+  code_url: xx
+  data_url: xx
 
 
 # Exclude from processing.
