@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: AI音乐创作
+description: 技术能力与体验demo
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+show_downloads: false
