@@ -7,10 +7,10 @@
 ### 单曲MV：《2022腾讯志愿者之歌》
 c
 <audio controls="">
-<source src="/assets/audio/lovely_ages.mp3" type="audio/mp3" />
+<source src="/music/resource/audio/lovely_ages.mp3" type="audio/mp3" />
 </audio>
 
 <audio controls="">
-<source src="/assets/audio/chord1.mp3" type="audio/mp3" />
+<source src="/music/resource/audio/chord1.mp3" type="audio/mp3" />
 </audio>
 
