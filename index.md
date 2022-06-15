@@ -1,4 +1,3 @@
-<div style="text-align:center;">
 # AI音乐创作
 
 
@@ -7,14 +6,13 @@
 
 #### 核心方法
 
-#### 算法生成的钢琴纯音乐代表作品《锦时》
-
+#### 算法生成的钢琴纯音乐代表作品
+1. 《锦时》
 <audio controls="">
 <source src="/music/resource/audio/lovely_ages.mp3" type="audio/mp3" />
 </audio>
 
-#### 算法生成的钢琴纯音乐代表作品《溪流》
-
+2. 《溪流》
 <audio controls="">
 <source src="/music/resource/audio/stream.mp3" type="audio/mp3" />
 </audio>
@@ -24,14 +22,13 @@
 
   #### 核心方法
 
-  #### 算法生成的音乐代表作品《奔腾》
-
+  #### 算法生成的音乐代表作品
+1. 《奔腾》
 <audio controls="">
 <source src="/music/resource/audio/gallop.mp3" type="audio/mp3" />
 </audio>
  
-  #### 算法生成的音乐代表作品《时间穿越》
-
+ 2.《时间穿越》
 <audio controls="">
 <source src="/music/resource/audio/time_travel.mp3" type="audio/mp3" />
 </audio>
@@ -55,17 +52,18 @@
 
 ### 人机协作的出版级音乐制作
 
-#### 单曲MV：《2022微信公开课pro主题曲-入微》
+#### 代表作品1：
 
+- 《2022微信公开课pro主题曲-入微》
 <video width="" height="" controls>
 <source src="/music/resource/video/ruwei.mov">
 </video>
 
-#### 单曲MV：《2022腾讯志愿者之歌》
+#### 代表作品2：
 
+- 《2022腾讯志愿者之歌》
 <video width="" height="" controls>
 <source src="/music/resource/video/volunteer.mov">
 </video>
 
 #### 更多作品欣赏，请关注 QQ音乐(<a href="https://y.qq.com/n/ryqq/singer/002dUuzA0FI573/album">耀灵</a>)、微信视频号WeAIArtist
-</div>
