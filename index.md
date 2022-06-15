@@ -1,3 +1,4 @@
+<div style="text-align:center;">
 # AI音乐创作
 
 
@@ -67,4 +68,4 @@
 </video>
 
 #### 更多作品欣赏，请关注 QQ音乐(<a href="https://y.qq.com/n/ryqq/singer/002dUuzA0FI573/album">耀灵</a>)、微信视频号WeAIArtist
-
+</div>
