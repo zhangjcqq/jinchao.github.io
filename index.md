@@ -5,8 +5,12 @@
 ### demo3：根据用户哼唱，进行乐曲续写
 ### 单曲MV：《2022微信公开课pro主题曲-入微》
 ### 单曲MV：《2022腾讯志愿者之歌》
-a
+b
 <audio controls="">
-<source src="/resource/audio/lovely_ages.mp3" type="audio/mp3" />
+<source src="/asset/audio/lovely_ages.mp3" type="audio/mp3" />
+</audio>
+
+<audio controls="">
+<source src="/asset/audio/chord1.mp3" type="audio/mp3" />
 </audio>
 
