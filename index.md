@@ -1,5 +1,4 @@
-d
-{% include toc.html %}
+e
 # AI音乐创作
 
 ### 流行钢琴曲纯音乐（Pop-piano）生成算法
