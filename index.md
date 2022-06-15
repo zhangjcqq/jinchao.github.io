@@ -44,7 +44,9 @@
   - 用户哼唱的音频
   - 转录完的片段
   - 续写完的乐曲
+
   #### demo2
+
   - 用户哼唱的音频
   - 转录完的片段
   - 续写完的乐曲
@@ -64,6 +66,5 @@
 <source src="/music/resource/video/volunteer.mov">
 </video>
 
-#### 更多作品欣赏，请关注 QQ音乐“耀灵”账号、微信视频号WeAIArtist
-<a href="https://y.qq.com/n/ryqq/singer/002dUuzA0FI573/album">QQ音乐：耀灵</a>
+#### 更多作品欣赏，请关注 QQ音乐(<a href="https://y.qq.com/n/ryqq/singer/002dUuzA0FI573/album">耀灵</a>)、微信视频号WeAIArtist
 
