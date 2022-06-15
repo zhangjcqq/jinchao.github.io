@@ -1,5 +1,5 @@
-c
-{% include toc.html html=content %}
+d
+{% include toc.html %}
 # AI音乐创作
 
 ### 流行钢琴曲纯音乐（Pop-piano）生成算法
