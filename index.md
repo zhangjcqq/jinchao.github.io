@@ -10,7 +10,10 @@ c
 <source src="/music/resource/audio/lovely_ages.mp3" type="audio/mp3" />
 </audio>
 
-<audio controls="">
-<source src="/music/resource/audio/chord1.mp3" type="audio/mp3" />
-</audio>
-
+<video width="320" height="240" controls>
+<source src="/music/resource/video/volunteer.mov">
+</video>
+             
+<video width="320" height="240" controls>
+<source src="/music/resource/video/ruwei.mov">
+</video>
