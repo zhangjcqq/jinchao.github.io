@@ -1,6 +1,6 @@
 # AI音乐创作
 
-[toc]
+{:toc}
 
 ### 流行钢琴曲纯音乐（Pop-piano）生成算法
 
@@ -21,10 +21,10 @@ to be provided
 
 ### 史诗级音乐（Epic music）生成算法
 
-  #### 核心方法
+#### 核心方法
   to be provided
 
-  #### 算法生成的音乐代表作品
+#### 算法生成的音乐代表作品
 1. 《奔腾》
 <audio controls="">
 <source src="/music/resource/audio/gallop.mp3" type="audio/mp3" />
@@ -37,16 +37,16 @@ to be provided
 
 ### 根据用户哼唱的旋律，进行乐曲生成
 
-  #### 核心方法
+#### 核心方法
   to be provided
 
-  #### demo 1
+#### demo 1
 
   - 用户哼唱的音频
   - 转录完的片段
   - 续写完的乐曲
 
-  #### demo2
+#### demo2
 
   - 用户哼唱的音频
   - 转录完的片段
