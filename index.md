@@ -5,11 +5,15 @@
 #### 音乐理论基础
 <div>
 <img src="/music/resource/image/overview.jpeg" /> <br/>
-- 乐曲构成单元是音符，每个音符具有自己的音高、音量、时值（长度）。多个音符组成功能和弦。<br/>
-- 乐曲有全局属性，包括：调式、拍号、速度等。<br/>
-- 乐曲在时间维度上具有曲式结构性。从层次结构视角上看，以动机为起点，发展至乐节、乐句...直到乐曲。从功能逻辑视角上看，可分为前奏、主歌、桥段...尾奏等。<br/>
-- 乐曲在空间维度上具有和声结构性，具体体现在多声部的和谐行进上。<br/>
-- 乐曲的整体风格加上演奏时的配器选择，产生不同流派的分野。<br/>
+
+<ol>
+<li>乐曲构成单元是音符，每个音符具有自己的音高、音量、时值（长度）。多个音符组成功能和弦。</li>
+<li>乐曲有全局属性，包括：调式、拍号、速度等。</li>
+<li>乐曲在时间维度上具有曲式结构性。从层次结构视角上看，以动机为起点，发展至乐节、乐句...直到乐曲。从功能逻辑视角上看，可分为前奏、主歌、桥段...尾奏等。</li>
+<li>乐曲在空间维度上具有和声结构性，具体体现在多声部的和谐行进上。</li>
+<li>乐曲的整体风格加上演奏时的配器选择，产生不同流派的分野。</li>
+</ol>
+
 </div>
 
 
@@ -70,24 +74,36 @@ to be provided
 <div>
 <img src="/music/resource/image/humming.jpeg" /> <br/>
 整体流程包括：<br/>
-- 哼唱转录：把用户的哼唱音频转录为乐谱。 <br/>
-- 前奏续写：算法模型依次生成续写的律动和音高。 <br/>
-- 自动编曲：为旋律自动配和弦、鼓组等轨道。 <br/>
-- 自动编排：短乐段自动编排成长乐曲。 <br/>
-- 自动混音：平衡各分轨音量，添加混响效果。 <br/>
+<ol>
+<li>哼唱转录：把用户的哼唱音频转录为乐谱。 </li>
+<li>前奏续写：算法模型依次生成续写的律动和音高。 </li>
+<li>自动编曲：为旋律自动配和弦、鼓组等轨道。 </li>
+<li>自动编排：短乐段自动编排成长乐曲。 </li>
+<li>自动混音：平衡各分轨音量，添加混响效果。 </li>
+</ol>
 </div> 
 
 #### demo 1
+用户哼唱的音频
+<audio controls="">
+<source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
+</audio>
 
-  - 用户哼唱的音频
-  - 转录完的片段
-  - 续写完的乐曲
+续写的乐曲
+<audio controls="">
+<source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
+</audio>
 
 #### demo2
 
-  - 用户哼唱的音频
-  - 转录完的片段
-  - 续写完的乐曲
+用户哼唱的音频
+<audio controls="">
+<source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
+</audio>
+续写的乐曲
+<audio controls="">
+<source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
+</audio>
 
 
 ---------------------------------------
