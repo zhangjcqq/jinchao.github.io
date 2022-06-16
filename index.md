@@ -1,4 +1,6 @@
 ---------------------------------------
+---------------------------------------
+---------------------------------------
 
 # AI音乐创作
 
@@ -10,6 +12,7 @@
 to be provided
 
 #### 代表作品
+<div text-align="center">
 1.《锦时》
 <audio controls="">
 <source src="/music/resource/audio/lovely_ages.mp3" type="audio/mp3" />
@@ -29,7 +32,10 @@ to be provided
 <audio controls="">
 <source src="/music/resource/audio/raining _spring.mp3" type="audio/mp3" />
 </audio>
+</div>
 
+---------------------------------------
+---------------------------------------
 ---------------------------------------
 
 ### 史诗级音乐（Epic Music）生成算法
@@ -38,6 +44,7 @@ to be provided
   to be provided
 
 #### 代表作品
+<div text-align="center">
 1.《奔腾》
 <audio controls="">
 <source src="/music/resource/audio/gallop.mp3" type="audio/mp3" />
@@ -53,7 +60,10 @@ to be provided
 <source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
 </audio>
 
+</div>
 
+---------------------------------------
+---------------------------------------
 ---------------------------------------
 ### 根据用户哼唱的旋律，进行乐曲生成
 
@@ -71,6 +81,7 @@ to be provided
 </div> 
 
 #### demo 1
+<div text-align="center">
 用户哼唱的音频
 <audio controls="">
 <source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
@@ -81,8 +92,10 @@ to be provided
 <source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
 </audio>
 
+</div>
 #### demo2
 
+<div text-align="center">
 用户哼唱的音频
 <audio controls="">
 <source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
@@ -92,7 +105,9 @@ to be provided
 <source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
 </audio>
 
-
+</div>
+---------------------------------------
+---------------------------------------
 ---------------------------------------
 ### 人机协作的出版级音乐制作
 <!--
@@ -115,8 +130,13 @@ to be provided
 </video>
 
 ---------------------------------------
+---------------------------------------
+---------------------------------------
 ### 更多作品欣赏，请关注 QQ音乐(<a href="https://y.qq.com/n/ryqq/singer/002dUuzA0FI573/album">耀灵</a>)、微信视频号WeAIArtist
 
+---------------------------------------
+---------------------------------------
+---------------------------------------
 ### (附) 音乐理论基础
 
 #### 音阶、调式、和弦
