@@ -123,7 +123,7 @@ to be provided
 
 ### (附) 音乐理论基础
 
-### 音阶、调式、和弦
+#### 音阶、调式、和弦
 <div>
 <img src="/music/resource/image/Cmajor.jpeg" alt="音阶、音程、和弦、和弦功能和特性（以C大调为例）">  <br/>
 <ol>
