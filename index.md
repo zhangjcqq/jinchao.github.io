@@ -12,21 +12,24 @@
 to be provided
 
 #### 代表作品
-<div text-align="center">
+<div text-align="center"  border="1px">
 1.《锦时》
 <audio controls="">
 <source src="/music/resource/audio/lovely_ages.mp3" type="audio/mp3" />
 </audio>
+</br>
 
 2.《溪流》
 <audio controls="">
 <source src="/music/resource/audio/stream.mp3" type="audio/mp3" />
 </audio>
+</br>
 
 3.《暖冬》
 <audio controls="">
 <source src="/music/resource/audio/warm_winter.mp3" type="audio/mp3" />
 </audio>
+</br>
 
 4.《落雨的春天》
 <audio controls="">
@@ -44,21 +47,24 @@ to be provided
   to be provided
 
 #### 代表作品
-<div text-align="center">
+<div text-align="center"  border="1px">
 1.《奔腾》
 <audio controls="">
 <source src="/music/resource/audio/gallop.mp3" type="audio/mp3" />
 </audio>
+</br>
  
 2.《时间穿越》
 <audio controls="">
 <source src="/music/resource/audio/time_travel.mp3" type="audio/mp3" />
 </audio>
+</br>
 
 3.《向荣耀进发》
 <audio controls="">
 <source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
 </audio>
+</br>
 
 </div>
 
@@ -81,13 +87,13 @@ to be provided
 </div> 
 
 #### demo 1
-<div text-align="center">
-用户哼唱的音频
+<div text-align="center" border="1px">
+用户哼唱的音频:
 <audio controls="">
 <source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
 </audio>
 
-续写的乐曲
+续写的乐曲:
 <audio controls="">
 <source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
 </audio>
@@ -95,12 +101,12 @@ to be provided
 </div>
 #### demo2
 
-<div text-align="center">
-用户哼唱的音频
+<div text-align="center"  border="1px">
+用户哼唱的音频:
 <audio controls="">
 <source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
 </audio>
-续写的乐曲
+续写的乐曲:
 <audio controls="">
 <source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
 </audio>
