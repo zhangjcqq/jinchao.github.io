@@ -104,16 +104,12 @@ to be provided
 - 后期：修音、混音、母带。
 - 发行
 -->
-#### 代表作品1：
-
-- 《2022微信公开课pro主题曲-入微》
+#### 代表作品1：《2022微信公开课pro主题曲-入微》
 <video width="" height="" controls>
 <source src="/music/resource/video/ruwei.mov">
 </video>
 
-#### 代表作品2：
-
-- 《2022腾讯志愿者之歌》
+#### 代表作品2：《2022腾讯志愿者之歌》
 <video width="" height="" controls>
 <source src="/music/resource/video/volunteer.mov">
 </video>
