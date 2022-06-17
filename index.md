@@ -35,7 +35,7 @@
 <br/>
 
 <div style="border:1px solid green; text-align:center">
-<img src="/music/resource/image/pop_model.png" width="70%"/> <br/>
+<img src="/music/resource/image/pop_model.png" width="60%"/> <br/>
 旋律生成算法模型：<br/>
 <b>输入</b>：和弦进行和节奏模板。 <br/>
 <b>输出结果</b>：旋律片段。 <br/>
