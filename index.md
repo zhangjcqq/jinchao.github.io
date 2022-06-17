@@ -3,8 +3,20 @@
 ---------------------------------------
 
 # AI音乐创作
+### 我们提出的和声感知的层次化音乐Transformer模型（Harmony-Aware Hierarchical Music Transformer-HAT）
+<div style="border:1px solid green; text-align:center">
+<img src="/music/resource/image/HAT.png" /> <br/>
+1. 我们提出以和声为桥梁，联合学习乐曲的时间结构（曲式）和空间结构（纹理）。
+2. 我们设计了一个端到端的和声感知的层次化音乐Transformer模型。
+3. 我们开发了2个评价音乐结构性的客观指标体系。
+4. 我们的模型可以大幅度的提升生成乐曲的曲式和纹理结构
+</div>
 
-### 流行钢琴曲纯音乐（Pop-piano Music）生成算法
+### 流行钢琴曲纯音乐（Pop-piano Music）生成系统
+#### 应用场景
+1. 有作曲经验的用户，可指定和弦进行模板和律动模板，定制自己的AI乐曲。
+2. 无作曲经验的用户，可指定场景、氛围、风格，定制自己的AI乐曲。
+3. 该类型的乐曲，可以直接用于欣赏或是作为短视频的配乐。
 
 #### 核心方法
 to be provided
@@ -39,7 +51,12 @@ to be provided
 ---------------------------------------
 ---------------------------------------
 
-### 史诗级音乐（Epic Music）生成算法
+### 史诗级音乐（Epic Music）生成系统
+
+#### 应用场景
+1. 有作曲经验的用户，可指定和弦进行模板和律动模板，定制自己的AI乐曲。
+2. 无作曲经验的用户，可指定场景、氛围、风格，定制自己的AI乐曲。
+3. 该类型的乐曲，比较适合作为大场景的配乐，比如电影。
 
 #### 核心方法
   to be provided
@@ -71,28 +88,29 @@ to be provided
 ---------------------------------------
 ### 根据用户哼唱的旋律，进行乐曲生成
 
+#### 应用场景
+
+无作曲经验的用户，可以通过人声哼唱一段旋律，得到一首续写的乐曲。旨在降低用户的音乐技能门槛。
+
 #### 核心方法
 
 <div style="border:1px solid green; text-align:center">
 <img src="/music/resource/image/humming.jpeg" /> <br/>
 整体流程包括：<br/>
-<ol>
-<li><b>哼唱转录</b>：把用户的哼唱音频转录为乐谱。 </li>
-<li><b>前奏续写</b>：算法模型依次生成续写的律动和音高。 </li>
-<li><b>自动编曲</b>：为旋律自动配和弦、鼓组等轨道。 </li>
-<li><b>自动编排</b>：短乐段自动编排成长乐曲。 </li>
-<li><b>自动混音</b>：平衡各分轨音量，添加混响效果。 </li>
-</ol>
+<b>哼唱转录</b>：把用户的哼唱音频转录为乐谱。 <br/>
+<b>前奏续写</b>：算法模型依次生成续写的律动和音高。 <br/>
+<b>自动编曲</b>：为旋律自动配和弦、鼓组等轨道。 <br/>
+<b>自动编排</b>：短乐段自动编排成长乐曲。 <br/>
+<b>自动混音</b>：平衡各分轨音量，添加混响效果。 <br/>
 </div>
+<br/>
 
 <div style="border:1px solid green; text-align:center">
-<img src="/music/resource/image/humming_model.jpeg" /> <br/>
+<img src="/music/resource/image/humming_model.png" /> <br/>
 生成算法模型：<br/>
-<ol>
-<li><b>输入</b>：用户哼唱转录完的文件。 </li>
-<li><b>中间结果</b>：预测乐曲律动。 </li>
-<li><b>最终结果</b>：续写的旋律片段</li>
-</ol>
+<b>输入</b>：用户哼唱转录完的文件。 <br/>
+<b>中间结果</b>：预测乐曲律动。 <br/>
+<b>最终结果</b>：续写的旋律片段<br/>
 </div>
  
 
@@ -107,8 +125,8 @@ to be provided
 <audio controls="">
 <source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
 </audio>
-
 </div>
+
 #### demo2
 
 <div style="border:1px solid green;text-align:center">
@@ -120,12 +138,15 @@ to be provided
 <audio controls="">
 <source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
 </audio>
-
 </div>
 ---------------------------------------
 ---------------------------------------
 ---------------------------------------
 ### 人机协作的出版级音乐制作
+
+#### 应用场景
+
+各项技术子能力，作为效率工具，与专业作曲人协同生产高质量出版级作品。
 
 #### 人机协同过程
 <ol>
@@ -135,7 +156,7 @@ to be provided
 <li>现场录制。</li>
 <li>后期：修音、混音、母带。</li>
 <li>发行。</li>
-<ol>
+</ol>
 
 #### 代表作品1：《2022微信公开课pro主题曲-入微》
 <video width="" height="" controls>
@@ -182,3 +203,17 @@ to be provided
 </ol>
 
 </div>
+<div style="border:1px solid green; text-align:center">
+<img src="/music/resource/image/score.png" /> <br/>
+音乐结构性示例：一首完整时间结构（前奏、主歌、副歌、间奏、尾奏）的4轨道（主旋律、副旋律、和声、律动）乐曲。
+</div>
+
+#### 乐曲的电子文档格式：midi文件
+MIDI(Musical Instrument Digital Interface)乐器数字接口 ，是20 世纪80 年代初为解决电声乐器之间的通信问题而提出的。MIDI是编曲界最广泛的音乐标准格式，可称为“计算机能理解的乐谱”。它用音符的数字控制信号来记录音乐。一首完整的MIDI音乐只有几十KB大，而能包含数十条音乐轨道。几乎所有的现代音乐都是用MIDI加上音色库来制作合成的。MIDI 传输的不是声音信号， 而是音符、控制参数等指令, 它指示MIDI 设备要做什么，怎么做， 如演奏哪个音符、多大音量等。它们被统一表示成MIDI 消息(MIDI Message) 。传输时采用异步串行通信, 标准通信波特率为31.25×( 1±0.01) KBaud。（摘自 百度百科）
+
+
+<div style="border:1px solid green; text-align:center">
+<img src="/music/resource/image/midi.png" /> <br/>
+图示为使用Apple Logicx打开的一个midi文件中的两个乐句。算法需要建模的就是这种音符序列规律。
+</div>
+
