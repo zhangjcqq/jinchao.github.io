@@ -13,6 +13,9 @@
 4. 我们的模型可以大幅度的提升生成乐曲的曲式和纹理结构。<br/>
 </div>
 
+---------------------------------------
+---------------------------------------
+---------------------------------------
 
 ## 流行钢琴曲纯音乐（Pop-piano Music）生成能力
 ### 应用场景
@@ -36,6 +39,7 @@
 旋律生成算法模型：<br/>
 <b>输入</b>：和弦进行和节奏模板。 <br/>
 <b>输出结果</b>：旋律片段。 <br/>
+</div>
 
 ### 代表作品
 <div style="border:1px solid green; text-align:center">
@@ -141,12 +145,12 @@
 <div style="border:1px solid green; text-align:center">
 用户哼唱的音频:
 <audio controls="">
-<source src="/music/resource/audio/demo1_input.mp3" type="audio/mp3" />
+<source src="/music/resource/audio/demo1_input.wav" type="audio/wav" />
 </audio>
 
 续写的乐曲:
 <audio controls="">
-<source src="/music/resource/audio/head_for_glory/demo1_0617.mp3" type="audio/mp3" />
+<source src="/music/resource/audio/demo1_0617.mp3" type="audio/mp3" />
 </audio>
 </div>
 
@@ -155,7 +159,7 @@
 <div style="border:1px solid green;text-align:center">
 用户哼唱的音频:
 <audio controls="">
-<source src="/music/resource/audio/demo2_input.mp3" type="audio/mp3" />
+<source src="/music/resource/audio/demo2_input.wav" type="audio/wav" />
 </audio>
 续写的乐曲:
 <audio controls="">
