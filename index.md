@@ -21,7 +21,15 @@
 3. 该类型的乐曲，可以直接用于欣赏或是作为短视频的配乐。
 
 ### 核心方法
-to be provided
+<div style="border:1px solid green; text-align:center">
+<img src="/music/resource/image/pop.png" /> <br/>
+整体流程包括：<br/>
+<b>旋律创作</b>：算法模型根据用户的输入创作合适的旋律。<br/>
+<b>伴奏创作</b>：算法模型旋律创作合适的钢琴伴奏。<br/>
+<b>自动编排</b>：短乐段自动编排成长乐曲。<br/>
+<b>自动混音</b>：平衡各分轨音量，添加混响效果。<br/>
+</div>
+<br/>
 
 ### 代表作品
 <div style="border:1px solid green; text-align:center">
@@ -61,7 +69,14 @@ to be provided
 3. 该类型的乐曲，比较适合作为大场景的配乐，比如电影。
 
 ### 核心方法
-  to be provided
+<div style="border:1px solid green; text-align:center">
+<img src="/music/resource/image/epic.png" /> <br/>
+整体流程包括：<br/>
+<b>旋律创作</b>：算法模型根据用户的输入创作合适的旋律。<br/>
+<b>自动编曲</b>：为旋律自动配和弦、贝司、鼓组等轨道。<br/>
+<b>自动编排</b>：短乐段自动编排成长乐曲。<br/>
+<b>自动混音</b>：平衡各分轨音量，添加混响效果。<br/>
+</div>
 
 ### 代表作品
 <div style="border:1px solid green; text-align:center">
@@ -120,12 +135,12 @@ to be provided
 <div style="border:1px solid green; text-align:center">
 用户哼唱的音频:
 <audio controls="">
-<source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
+<source src="/music/resource/audio/demo1-input.mp3" type="audio/mp3" />
 </audio>
 
 续写的乐曲:
 <audio controls="">
-<source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
+<source src="/music/resource/audio/head_for_glory/demo1-0617.mp3" type="audio/mp3" />
 </audio>
 </div>
 
@@ -134,11 +149,11 @@ to be provided
 <div style="border:1px solid green;text-align:center">
 用户哼唱的音频:
 <audio controls="">
-<source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
+<source src="/music/resource/audio/demo2-input.mp3" type="audio/mp3" />
 </audio>
 续写的乐曲:
 <audio controls="">
-<source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
+<source src="/music/resource/audio/demo2-0617.mp3" type="audio/mp3" />
 </audio>
 </div>
 ---------------------------------------
