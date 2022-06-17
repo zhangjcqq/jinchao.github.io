@@ -135,12 +135,12 @@
 <div style="border:1px solid green; text-align:center">
 用户哼唱的音频:
 <audio controls="">
-<source src="/music/resource/audio/demo1-input.mp3" type="audio/mp3" />
+<source src="/music/resource/audio/demo1_input.mp3" type="audio/mp3" />
 </audio>
 
 续写的乐曲:
 <audio controls="">
-<source src="/music/resource/audio/head_for_glory/demo1-0617.mp3" type="audio/mp3" />
+<source src="/music/resource/audio/head_for_glory/demo1_0617.mp3" type="audio/mp3" />
 </audio>
 </div>
 
@@ -149,11 +149,11 @@
 <div style="border:1px solid green;text-align:center">
 用户哼唱的音频:
 <audio controls="">
-<source src="/music/resource/audio/demo2-input.mp3" type="audio/mp3" />
+<source src="/music/resource/audio/demo2_input.mp3" type="audio/mp3" />
 </audio>
 续写的乐曲:
 <audio controls="">
-<source src="/music/resource/audio/demo2-0617.mp3" type="audio/mp3" />
+<source src="/music/resource/audio/demo2_0617.mp3" type="audio/mp3" />
 </audio>
 </div>
 ---------------------------------------
