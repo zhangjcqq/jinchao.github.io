@@ -3,14 +3,15 @@
 ---------------------------------------
 
 # AI音乐创作
-### 我们提出的和声感知的层次化音乐Transformer模型（Harmony-Aware Hierarchical Music Transformer-HAT）
+### 和声感知的层次化音乐Transformer模型（Harmony-Aware Hierarchical Music Transformer-HAT）
 <div style="border:1px solid green; text-align:center">
 <img src="/music/resource/image/HAT.png" /> <br/>
-1. 我们提出以和声为桥梁，联合学习乐曲的时间结构（曲式）和空间结构（纹理）。
-2. 我们设计了一个端到端的和声感知的层次化音乐Transformer模型。
-3. 我们开发了2个评价音乐结构性的客观指标体系。
-4. 我们的模型可以大幅度的提升生成乐曲的曲式和纹理结构
+1. 我们提出以和声为桥梁，联合学习乐曲的时间结构（曲式）和空间结构（纹理）。<br/>
+2. 我们设计了一个端到端的和声感知的层次化音乐Transformer模型。<br/>
+3. 我们开发了2个评价音乐结构性的客观指标体系。<br/>
+4. 我们的模型可以大幅度的提升生成乐曲的曲式和纹理结构。<br/>
 </div>
+
 
 ### 流行钢琴曲纯音乐（Pop-piano Music）生成系统
 #### 应用场景
