@@ -3,7 +3,7 @@
 ---------------------------------------
 
 # AI音乐创作
-### 和声感知的层次化音乐Transformer模型（Harmony-Aware Hierarchical Music Transformer-HAT）
+## 和声感知的层次化音乐Transformer模型（Harmony-Aware Hierarchical Music Transformer-HAT）
 <div style="border:1px solid green; text-align:center">
 <img src="/music/resource/image/HAT.png" /> <br/>
 1. 我们提出以和声为桥梁，联合学习乐曲的时间结构（曲式）和空间结构（纹理）。<br/>
@@ -13,16 +13,16 @@
 </div>
 
 
-### 流行钢琴曲纯音乐（Pop-piano Music）生成系统
-#### 应用场景
+## 流行钢琴曲纯音乐（Pop-piano Music）生成系统
+### 应用场景
 1. 有作曲经验的用户，可指定和弦进行模板和律动模板，定制自己的AI乐曲。
 2. 无作曲经验的用户，可指定场景、氛围、风格，定制自己的AI乐曲。
 3. 该类型的乐曲，可以直接用于欣赏或是作为短视频的配乐。
 
-#### 核心方法
+### 核心方法
 to be provided
 
-#### 代表作品
+### 代表作品
 <div style="border:1px solid green; text-align:center">
 1.《锦时》
 <audio controls="">
@@ -52,17 +52,17 @@ to be provided
 ---------------------------------------
 ---------------------------------------
 
-### 史诗级音乐（Epic Music）生成系统
+## 史诗级音乐（Epic Music）生成系统
 
-#### 应用场景
+### 应用场景
 1. 有作曲经验的用户，可指定和弦进行模板和律动模板，定制自己的AI乐曲。
 2. 无作曲经验的用户，可指定场景、氛围、风格，定制自己的AI乐曲。
 3. 该类型的乐曲，比较适合作为大场景的配乐，比如电影。
 
-#### 核心方法
+### 核心方法
   to be provided
 
-#### 代表作品
+### 代表作品
 <div style="border:1px solid green; text-align:center">
 1.《奔腾》
 <audio controls="">
@@ -87,13 +87,13 @@ to be provided
 ---------------------------------------
 ---------------------------------------
 ---------------------------------------
-### 根据用户哼唱的旋律，进行乐曲生成
+## 根据用户哼唱的旋律，进行乐曲生成
 
-#### 应用场景
+### 应用场景
 
 无作曲经验的用户，可以通过人声哼唱一段旋律，得到一首续写的乐曲。旨在降低用户的音乐技能门槛。
 
-#### 核心方法
+### 核心方法
 
 <div style="border:1px solid green; text-align:center">
 <img src="/music/resource/image/humming.jpeg" /> <br/>
@@ -115,7 +115,7 @@ to be provided
 </div>
  
 
-#### demo 1
+### demo 1
 <div style="border:1px solid green; text-align:center">
 用户哼唱的音频:
 <audio controls="">
@@ -128,7 +128,7 @@ to be provided
 </audio>
 </div>
 
-#### demo2
+### demo2
 
 <div style="border:1px solid green;text-align:center">
 用户哼唱的音频:
@@ -143,13 +143,13 @@ to be provided
 ---------------------------------------
 ---------------------------------------
 ---------------------------------------
-### 人机协作的出版级音乐制作
+## 人机协作的出版级音乐制作
 
-#### 应用场景
+### 应用场景
 
 各项技术子能力，作为效率工具，与专业作曲人协同生产高质量出版级作品。
 
-#### 人机协同过程
+### 人机协同过程
 <ol>
 <li>人类作曲者给出基本的和弦行进框架。</li>
 <li>算法生成旋律和伴奏。</li>
@@ -159,12 +159,12 @@ to be provided
 <li>发行。</li>
 </ol>
 
-#### 代表作品1：《2022微信公开课pro主题曲-入微》
+### 代表作品1：《2022微信公开课pro主题曲-入微》
 <video width="" height="" controls>
 <source src="/music/resource/video/ruwei.mov">
 </video>
 
-#### 代表作品2：《2022腾讯志愿者之歌》
+### 代表作品2：《2022腾讯志愿者之歌》
 <video width="" height="" controls>
 <source src="/music/resource/video/volunteer.mov">
 </video>
@@ -172,14 +172,14 @@ to be provided
 ---------------------------------------
 ---------------------------------------
 ---------------------------------------
-### 更多作品欣赏，请关注 QQ音乐(<a href="https://y.qq.com/n/ryqq/singer/002dUuzA0FI573/album">耀灵</a>)、微信视频号WeAIArtist
+## 更多作品欣赏，请关注 QQ音乐(<a href="https://y.qq.com/n/ryqq/singer/002dUuzA0FI573/album">耀灵</a>)、微信视频号WeAIArtist
 
 ---------------------------------------
 ---------------------------------------
 ---------------------------------------
-### (附) 音乐理论基础
+## (附) 音乐理论基础
 
-#### 音阶、调式、和弦
+### 音阶、调式、和弦
 <div>
 <img src="/music/resource/image/Cmajor.jpeg" alt="音阶、音程、和弦、和弦功能和特性（以C大调为例）">  <br/>
 <ol>
@@ -191,7 +191,7 @@ to be provided
 </div>
 
 
-#### 乐曲的结构性
+### 乐曲的结构性
 <div >
 <img src="/music/resource/image/overview.jpeg" alt="乐器的时空结构拆解"/><br/>
 
@@ -209,7 +209,7 @@ to be provided
 音乐结构性示例：一首完整时间结构（前奏、主歌、副歌、间奏、尾奏）的4轨道（主旋律、副旋律、和声、律动）乐曲。
 </div>
 
-#### 乐曲的电子文档格式：midi文件
+### 乐曲的电子文档格式：midi文件
 MIDI(Musical Instrument Digital Interface)乐器数字接口 ，是20 世纪80 年代初为解决电声乐器之间的通信问题而提出的。MIDI是编曲界最广泛的音乐标准格式，可称为“计算机能理解的乐谱”。它用音符的数字控制信号来记录音乐。一首完整的MIDI音乐只有几十KB大，而能包含数十条音乐轨道。几乎所有的现代音乐都是用MIDI加上音色库来制作合成的。MIDI 传输的不是声音信号， 而是音符、控制参数等指令, 它指示MIDI 设备要做什么，怎么做， 如演奏哪个音符、多大音量等。它们被统一表示成MIDI 消息(MIDI Message) 。传输时采用异步串行通信, 标准通信波特率为31.25×( 1±0.01) KBaud。（摘自 百度百科）
 
 
