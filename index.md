@@ -4,15 +4,13 @@
 
 # AI音乐创作
 
-
-
 ### 流行钢琴曲纯音乐（Pop-piano Music）生成算法
 
 #### 核心方法
 to be provided
 
 #### 代表作品
-<div text-align="center"  style="border:1px solid green">
+<div style="border:1px solid green; text-align:center">
 1.《锦时》
 <audio controls="">
 <source src="/music/resource/audio/lovely_ages.mp3" type="audio/mp3" />
@@ -47,7 +45,7 @@ to be provided
   to be provided
 
 #### 代表作品
-<div text-align="center"  style="border:1px solid green">
+<div style="border:1px solid green; text-align:center">
 1.《奔腾》
 <audio controls="">
 <source src="/music/resource/audio/gallop.mp3" type="audio/mp3" />
@@ -74,7 +72,8 @@ to be provided
 ### 根据用户哼唱的旋律，进行乐曲生成
 
 #### 核心方法
-<div>
+
+<div style="border:1px solid green; text-align:center">
 <img src="/music/resource/image/humming.jpeg" /> <br/>
 整体流程包括：<br/>
 <ol>
@@ -84,10 +83,21 @@ to be provided
 <li><b>自动编排</b>：短乐段自动编排成长乐曲。 </li>
 <li><b>自动混音</b>：平衡各分轨音量，添加混响效果。 </li>
 </ol>
-</div> 
+</div>
+
+<div style="border:1px solid green; text-align:center">
+<img src="/music/resource/image/humming_model.jpeg" /> <br/>
+生成算法模型：<br/>
+<ol>
+<li><b>输入</b>：用户哼唱转录完的文件。 </li>
+<li><b>中间结果</b>：预测乐曲律动。 </li>
+<li><b>最终结果</b>：续写的旋律片段</li>
+</ol>
+</div>
+ 
 
 #### demo 1
-<div text-align="center" style="border:1px solid green">
+<div style="border:1px solid green; text-align:center">
 用户哼唱的音频:
 <audio controls="">
 <source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
@@ -101,7 +111,7 @@ to be provided
 </div>
 #### demo2
 
-<div text-align="center"  style="border:1px solid green">
+<div style="border:1px solid green;text-align:center">
 用户哼唱的音频:
 <audio controls="">
 <source src="/music/resource/audio/head_for_glory.mp3" type="audio/mp3" />
@@ -116,15 +126,17 @@ to be provided
 ---------------------------------------
 ---------------------------------------
 ### 人机协作的出版级音乐制作
-<!--
-####  协同过程
-- 人类作曲者给出基本的和弦行进框架。
-- 算法生成旋律和伴奏。
-- 填词。
-- 现场录制。
-- 后期：修音、混音、母带。
-- 发行
--->
+
+#### 人机协同过程
+<ol>
+<li>人类作曲者给出基本的和弦行进框架。</li>
+<li>算法生成旋律和伴奏。</li>
+<li>填词。</li>
+<li>现场录制。</li>
+<li>后期：修音、混音、母带。</li>
+<li>发行。</li>
+<ol>
+
 #### 代表作品1：《2022微信公开课pro主题曲-入微》
 <video width="" height="" controls>
 <source src="/music/resource/video/ruwei.mov">
