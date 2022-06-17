@@ -4,6 +4,7 @@
 
 # 伯牙（boya）AI音乐创作系统
 ## 和声感知的层次化音乐Transformer模型（Harmony-Aware Hierarchical Music Transformer-HAT, ACM MM reviewing）
+<a href="https://arxiv.org/pdf/2109.06441.pdf">PDF</a>
 <div style="border:1px solid green; text-align:center">
 <img src="/music/resource/image/HAT.png" /> <br/>
 1. 我们提出以和声为桥梁，联合学习乐曲的时间结构（曲式）和空间结构（纹理）。<br/>
