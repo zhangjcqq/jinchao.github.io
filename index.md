@@ -2,7 +2,7 @@
 ---------------------------------------
 ---------------------------------------
 
-# AI音乐创作
+# 伯牙（boya）AI音乐创作系统
 ## 和声感知的层次化音乐Transformer模型（Harmony-Aware Hierarchical Music Transformer-HAT）
 <div style="border:1px solid green; text-align:center">
 <img src="/music/resource/image/HAT.png" /> <br/>
