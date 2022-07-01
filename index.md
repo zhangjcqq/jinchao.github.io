@@ -147,14 +147,16 @@
 <audio controls="">
 <source src="/music/resource/audio/demo1_input.wav" type="audio/wav" />
 </audio>
-
+<br/>
 续写的乐曲:
 <audio controls="">
 <source src="/music/resource/audio/demo1_0617.mp3" type="audio/mp3" />
 </audio>
+<br/>
 <audio controls="">
 <source src="/music/resource/audio/demo1_0701.wav" type="audio/wav" />
 </audio>
+<br/>
 </div>
 
 ### demo2
@@ -163,13 +165,16 @@
 <audio controls="">
 <source src="/music/resource/audio/demo2_input.wav" type="audio/wav" />
 </audio>
+<br/>
 续写的乐曲:
 <audio controls="">
 <source src="/music/resource/audio/demo2_0617.mp3" type="audio/mp3" />
 </audio>
+<br/>
 <audio controls="">
 <source src="/music/resource/audio/demo2_0701.wav" type="audio/wav" />
 </audio>
+<br/>
 </div>
 ---------------------------------------
 ---------------------------------------
