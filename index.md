@@ -152,10 +152,12 @@
 <audio controls="">
 <source src="/music/resource/audio/demo1_0617.mp3" type="audio/mp3" />
 </audio>
+<audio controls="">
+<source src="/music/resource/audio/demo1_0701.wav" type="audio/wav" />
+</audio>
 </div>
 
 ### demo2
-
 <div style="border:1px solid green;text-align:center">
 用户哼唱的音频:
 <audio controls="">
@@ -164,6 +166,9 @@
 续写的乐曲:
 <audio controls="">
 <source src="/music/resource/audio/demo2_0617.mp3" type="audio/mp3" />
+</audio>
+<audio controls="">
+<source src="/music/resource/audio/demo2_0701.wav" type="audio/wav" />
 </audio>
 </div>
 ---------------------------------------
